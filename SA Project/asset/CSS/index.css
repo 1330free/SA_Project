@@ -1,0 +1,12 @@
+.nav-item {
+    margin: 15px;
+}
+
+.card {
+    text-align: center;
+    margin: 0 auto;
+}
+
+@media screen and (min-width:525px) {
+    .card {}
+}

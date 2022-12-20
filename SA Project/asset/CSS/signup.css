@@ -1,0 +1,59 @@
+.sicss {
+    border: 2px black solid;
+    width: 320px;
+    margin: auto;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5%;
+    background-color: blueviolet;
+}
+
+.signup {
+    text-align: center;
+}
+
+.inbox {
+    padding: 10px;
+}
+
+.vertical {
+
+    display: flex;
+    align-items: center;
+    padding: 10% 0 5% 0;
+}
+
+.tdn>a {
+    text-decoration: none;
+    font-size: x-large;
+    font-family: 標楷體;
+    font-weight: 1000;
+    color: black;
+    margin: 25px;
+}
+
+.inbox>input {
+    font-size: x-large;
+    font-family: 標楷體;
+    font-weight: 1000;
+    font-style: italic;
+    border-radius: 10%;
+    box-shadow: 3px 3px 3px rgb(49, 63, 107);
+
+}
+
+footer>p {
+    text-align: center;
+    font-size: x-large;
+    font-family: 標楷體;
+    font-weight: 1000;
+}
+
+.tbt {
+    margin: auto;
+}
+
+.tbt1 {
+    padding-right: 30px;
+    padding-left: 30px;
+}
